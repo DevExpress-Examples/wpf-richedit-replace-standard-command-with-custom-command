@@ -1,0 +1,15 @@
+﻿<dx:ThemedWindow
+    x:Class="DXApplication36.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+    xmlns:dxr="http://schemas.devexpress.com/winfx/2008/xaml/ribbon"
+    xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars"
+    xmlns:dxbh="http://schemas.devexpress.com/winfx/2008/xaml/bars/internal"
+    xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
+    xmlns:dxd="http://schemas.devexpress.com/winfx/2008/xaml/docking"
+    xmlns:dxre="http://schemas.devexpress.com/winfx/2008/xaml/richedit"
+    xmlns:dxo="http://schemas.devexpress.com/winfx/2008/xaml/office"
+    Title="DXApplication" Height="700" Width="1100">
+    <dxre:RichEditControl x:Name="richEditControl1" CommandBarStyle="Ribbon"/>
+</dx:ThemedWindow>
