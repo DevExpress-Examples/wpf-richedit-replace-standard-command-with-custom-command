@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomRichEditCommandFactoryService.cs](./CS/DXApplication36/CustomRichEditCommandFactoryService.cs) (VB: [CustomRichEditCommandFactoryService.vb](./VB/DXApplication36/CustomRichEditCommandFactoryService.vb))
+* [MainWindow.xaml](./CS/DXApplication36/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/DXApplication36/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/DXApplication36/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DXApplication36/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to replace standard DXRichEdit command with your own custom command
 
 
