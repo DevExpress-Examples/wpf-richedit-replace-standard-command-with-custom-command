@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 2012
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DXApplication36", "DXApplication36\DXApplication36.vbproj", "{35302037-5C00-478D-9382-C7DD1441E2FD}"
 EndProject
 Global
